@@ -1,2 +1,2 @@
-Instalar dependências: npm install
-Rodar o projeto: npm run dev
+- Instalar dependências: npm install
+- Rodar o projeto: npm run dev
